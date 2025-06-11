@@ -1,0 +1,28 @@
+# Node.js
+node_modules/
+build/
+
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment variables
+.env
+
+# SQLite database
+*.sqlite3
+*.db
+
+# Mac/Windows system files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# React
+frontend/node_modules/
+frontend/build/ 
